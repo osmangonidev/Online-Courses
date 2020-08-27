@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#main{
+    display: flex;
+    margin-top: 10px;
+}
+#header{
+    height: 150px;
+    color:white;
+    text-align: center;
+}
+#header h1{
+    padding-top: 20px;
+}
+#courses{
+    width: 58%;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+#cart{
+    padding: 10px;
+    background-color:#7400b8;
+    color: white;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding-top: 0px;
+}

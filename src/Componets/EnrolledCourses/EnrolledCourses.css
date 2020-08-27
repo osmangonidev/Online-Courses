@@ -1,0 +1,9 @@
+#enrolled-course{
+    padding: 10px;
+    background-color:#72efdd;
+    box-shadow:5px 5px 5px lightpink;
+    margin: 10px;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 20px;
+}
